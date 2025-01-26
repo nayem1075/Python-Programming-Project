@@ -1,0 +1,5 @@
+print(10)
+print(10.5)
+print("Nayem Uddin")
+print("01830311622")
+print("Bsc in CSE at University Of Science And Technology")
